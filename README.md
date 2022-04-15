@@ -22,8 +22,9 @@ CN - Guangzhou, Guangdong, China
 - 🔭 当前工作为 [联软科技 - 魔方安全](https://www.leagsoft.com) 的前端研发工程师
 - 🌱 毕业于 [华南师范大学](https://www.scnu.edu.cn/) 通信工程专业，是一名211全日制本科毕业生
 - 😄 自己尝试玩的一些东西会部署于 [柯基编码](corgicoding.top)
-- 💬 擅长 JavaScript / TypeScript / NodeJS / Java 语言
+- 💬 擅长 JavaScript / TypeScript / Java 语言
 - 🤔 精通 Vue2.x 和 Vue3.x, 有过 Java/Springboot 和 NestJS 开发经验
+- 🌱 其他技能： Babel / Webpack / Eslint / VsCode / Jest / Antv G6 / Antv X6 / Echarts / NodeJS / Office / Git / Markdown / C
 - 📫 正在继续努力学习 React 和 算法..
 
 #### Github 提交状态面板 👇
