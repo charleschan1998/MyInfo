@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好看官 👋
 
 <!--**Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+CN - Guangzhou, Guangdong, China
+
+- ⚡ 我是茶礼查理茬哩，英文名为 `Charles Chan`
+- 🔭 当前工作为 (联软科技 - 魔方安全)[https://www.leagsoft.com] 的前端研发工程师
+- 🌱 毕业于 华南师范大学 通信工程专业，是一名211全日制本科毕业生
+- 😄 个人博客及项目部署于 (柯基编码)[corgicoding.top]
 
 ![](https://github-readme-stats.vercel.app/api?username=charleschan1998)
