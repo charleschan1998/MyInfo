@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CN - Guangzhou, Guangdong, China
+`CN` - 中国广东广州
 
 - ⚡ 我是 `茶礼查理茬哩` ，英文名为 `Charles Chan`
 - 🔭 当前工作为 [联软科技 - 魔方安全](https://www.leagsoft.com) 的前端研发工程师
