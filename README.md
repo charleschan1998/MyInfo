@@ -24,6 +24,6 @@ CN - Guangzhou, Guangdong, China
 - 🤔 精通 Vue2.x 和 Vue3.x, 有过 Java/Springboot 和 NestJS 开发经验
 - 📫 正在继续努力学习 React 和 算法..
 
-### Github 提交状态面板
+### Github 提交状态面板 👇
 
 ![](https://github-readme-stats.vercel.app/api?username=charleschan1998)
